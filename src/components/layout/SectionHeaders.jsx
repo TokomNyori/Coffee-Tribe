@@ -6,7 +6,7 @@ const SectionHeaders = ({ header, subHeader }) => {
             <h3 className="text-gray-500 uppercase font-semibold leading-6">
                 {subHeader}
             </h3>
-            <h2 className="text-primary font-bold text-3xl mb-8">
+            <h2 className="text-primarySecond font-bold text-4xl">
                 {header}
             </h2>
         </>
